@@ -1,1 +1,1 @@
-website: https://cordutie.github.io/webpage/
+website: https://cordutie.github.io/
